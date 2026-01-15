@@ -18,10 +18,10 @@ xhttp.onreadystatechange = function(){
 
 
             let textData =
-            "<div class='game-title'>" + game.title + "</div>" +
+            "<div class='game-name'>" + game.Game + "</div>" +
             "<span>" +
-            "Pubblisher: " + game.publisher + "<br>" +
-            "Release Data: " + game.releseata +"<br>" +
+            "Publisher: " + game.Publisher + "<br>" +
+            "Release Data: " + game.Year +"<br>" +
             "Needs Research: " +
             "</span>";
 
@@ -35,5 +35,5 @@ xhttp.onreadystatechange = function(){
     }
 };
 
-xhttp.open("GET", "gamedata.json", true);
-xhttp.send.apply();
+xhttp.open("GET", "games.json", true);
+xhttp.send();
