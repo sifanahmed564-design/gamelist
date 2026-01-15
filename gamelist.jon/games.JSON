@@ -9,7 +9,8 @@
 	  "Publisher": "Square Enix",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/Square_Enix",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	  "imgSrc": "https://upload.wikimedia.org/wikipedia/en/f/fd/0daybox.jpg"
 	},
 	{
 	  "Game": "007 Legends",
@@ -21,7 +22,8 @@
 	  "Publisher": "Activision",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	  "imgSrc": "https://upload.wikimedia.org/wikipedia/en/5/58/007Legends.jpg"
 	},
 	{
 	  "Game": "007: Quantum of Solace",
@@ -33,7 +35,8 @@
 	  "Publisher": "Activision",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/Activision",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	  "imgSrc": "https://upload.wikimedia.org/wikipedia/en/a/ab/Quantum_of_Solace_Cover_Art.PNG"
 	},
 	{
 	  "Game": "0-D Beat Drop",

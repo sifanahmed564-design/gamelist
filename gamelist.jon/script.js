@@ -27,8 +27,8 @@ xhttp.onreadystatechange = function(){
 
             card.innerHTML = textData;
 
-            if (game.imgScr) {
-                card.style.backgroundlmage = "url('" + game.imgSrc + "')";
+            if (game.imgSrc) {
+                card.style.backgroundImage = "url('" + game.imgSrc + "')";
             }
             grid.appendChild(card);
         });
