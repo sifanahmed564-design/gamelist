@@ -48,7 +48,8 @@
 	  "Publisher": "Arc System Works",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/Arc_System_Works",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	  "imgSrc": "https://upload.wikimedia.org/wikipedia/en/f/f7/0-D_Beat_Drop.jpg"
 	},
 	{
 	  "Game": "1 vs. 100",
@@ -60,7 +61,8 @@
 	  "Publisher": "Xbox Game Studios",
 	  "PublisherLink": null,
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	  "imgSrc": "https://upload.wikimedia.org/wikipedia/en/b/b3/1_vs_100_gameshow.png"
 	},
 	{
 	  "Game": "11eyes CrossOver",
@@ -72,7 +74,8 @@
 	  "Publisher": "5pb.",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/5pb.",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	  "imgSrc": "https://upload.wikimedia.org/wikipedia/en/f/f7/11eyes_original_visual_novel_cover.jpg"
 	},
 	{
 	  "Game": "1942: Joint Strike",
@@ -84,7 +87,8 @@
 	  "Publisher": "Capcom",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/Capcom",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	  "imgSrc": "https://upload.wikimedia.org/wikipedia/en/7/7e/1942jointstrike.jpg"
 	},
 	{
 	  "Game": "2006 FIFA World Cup",
@@ -96,7 +100,8 @@
 	  "Publisher": "EA Sports",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/EA_Sports",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	  "imgSrc": "https://upload.wikimedia.org/wikipedia/en/6/6b/2006_FIFA_World_Cup.svg"
 	},
 	{
 	  "Game": "2010 FIFA World Cup South Africa",
@@ -108,7 +113,8 @@
 	  "Publisher": "EA Sports",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/EA_Sports",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	   "imgSrc": "https://m.media-amazon.com/images/I/81VFZwVpj4L._AC_UF1000,1000_QL80_.jpg"
 	},
 	{
 	  "Game": "2014 FIFA World Cup Brazil",
@@ -120,7 +126,8 @@
 	  "Publisher": "EA Sports",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/EA_Sports",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	   "imgSrc": "https://m.media-amazon.com/images/I/81juSGG3gjL._AC_UF1000,1000_QL80_.jpg"
 	},
 	{
 	  "Game": "3 on 3 NHL Arcade",
@@ -132,7 +139,8 @@
 	  "Publisher": "Electronic Arts",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/Electronic_Arts",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	   "imgSrc": "https://upload.wikimedia.org/wikipedia/en/e/ea/3_on_3_NHL_Arcade_cover.jpg"
 	},
 	{
 	  "Game": "3D Ultra Minigolf Adventures",
@@ -144,7 +152,8 @@
 	  "Publisher": "Vivendi Games",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/Vivendi_Games",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	   "imgSrc": "https://upload.wikimedia.org/wikipedia/en/4/4d/3DUltimateMinigolfAdventures.jpg"
 	},
 	{
 	  "Game": "3D Ultra Minigolf Adventures 2",
@@ -156,7 +165,8 @@
 	  "Publisher": "Konami",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/Konami",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	   "imgSrc": "https://static.wikia.nocookie.net/gamia_gamepedia_en/images/f/f8/Front-Cover-3D-Ultra-MiniGolf-Adventures-2-INT-XBLA.jpg/revision/latest/thumbnail/width/360/height/450?cb=20190302130308"
 	},
 	{
 	  "Game": "50 Cent: Blood on the Sand",
@@ -168,7 +178,8 @@
 	  "Publisher": "THQ",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/THQ",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	   "imgSrc": "https://upload.wikimedia.org/wikipedia/en/1/14/50_Cent_Blood_on_the_Sand.jpg"
 	},
 	{
 	  "Game": "A.R.E.S.: Extinction Agenda EX",
@@ -180,7 +191,8 @@
 	  "Publisher": "Aksys Games",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/Aksys_Games",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	   "imgSrc": "https://upload.wikimedia.org/wikipedia/en/6/68/Aresextinctionagenda.png"
 	},
 	{
 	  "Game": "Absolute: Blazing Infinity",
@@ -192,7 +204,8 @@
 	  "Publisher": "Idea Factory",
 	  "PublisherLink": null,
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	   "imgSrc": "https://upload.wikimedia.org/wikipedia/en/f/f2/Absolute_Blazing_Infinity_Game_Cover.jpg"
 	},
 	{
 	  "Game": "Abyss Odyssey",
@@ -204,7 +217,8 @@
 	  "Publisher": "Atlus",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/Atlus",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	   "imgSrc": "https://upload.wikimedia.org/wikipedia/en/e/e3/Abyss_Odyssey_Cover_Art.png"
 	},
 	{
 	  "Game": "AC/DC Live: Rock Band Track Pack",
@@ -216,7 +230,8 @@
 	  "Publisher": "MTV Games",
 	  "PublisherLink": "https://en.wikipedia.org/wiki/MTV_Games",
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	  "imgSrc": "https://cdn2.steamgriddb.com/logo/7a525676aaa72cf26fbe55cc479ad9a5.png"
 	},
 	{
 	  "Game": "Ace Combat 6: Fires of Liberation",
@@ -228,7 +243,8 @@
 	  "Publisher": "Namco Bandai Games, AtariEU",
 	  "PublisherLink": null,
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	  "imgSrc": "https://upload.wikimedia.org/wikipedia/en/1/16/Ace_Combat_6_Fires_of_Liberation_Game_Cover.jpg"
 	},
 	{
 	  "Game": "Ace Combat: Assault Horizon",
@@ -240,6 +256,7 @@
 	  "Publisher": "Namco Bandai Games",
 	  "PublisherLink": null,
 	  "Platform": "the XBOX 360",
-	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360"
+	  "PlatformLink": "https://en.wikipedia.org/wiki/Xbox_360",
+	  "imgSrc": "https://upload.wikimedia.org/wikipedia/en/3/3d/Ace_Combat_Assault_Horizon.png"
 	} 
 ]
