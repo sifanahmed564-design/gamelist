@@ -35,5 +35,7 @@ xhttp.onreadystatechange = function(){
     }
 };
 
+const submitButton = document.getElementById("submit");
+
 xhttp.open("GET", "games.json", true);
 xhttp.send();
