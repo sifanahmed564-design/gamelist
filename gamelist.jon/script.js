@@ -5,10 +5,20 @@ let grid = document.querySelector(".grid-container");
 var form = document.querySelector("form");
 
 
+let titleInput = document.getElementById("title");
+let yearInput = document.getElementById("yearinput");
+let titleInput = document.getElementById("title");
+let titleInput = document.getElementById("title");
+let titleInput = document.getElementById("title");
+
+
   var newObj = {
     title: titleInput.value,
+    year: yearInput.value,
     publisher: pubInput.value,
-    releaseDate: dateInput.value
+    developer : devInput. value,
+    image: imgInput.value,
+    
   };
 
 
