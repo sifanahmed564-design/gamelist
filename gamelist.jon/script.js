@@ -6,10 +6,10 @@ var form = document.querySelector("form");
 
 
 let titleInput = document.getElementById("title");
-let yearInput = document.getElementById("yearinput");
-let titleInput = document.getElementById("title");
-let titleInput = document.getElementById("title");
-let titleInput = document.getElementById("title");
+let yearInput = document.getElementById("yearInput");
+let pubInput = document.getElementById("pubInput");
+let devInput = document.getElementById("devlInput");
+let imaInput = document.getElementById("imaInput");
 
 
   var newObj = {
@@ -41,9 +41,7 @@ xhttp.onreadystatechange = function(){
             "<div class='game-name'>" + game.Game + "</div>" +
             "<span>" +
             "Publisher: " + game.Publisher + "<br>" +
-            "Release Data: " + game.Year +"<br>" +
-            "Needs Research: " +
-            "</span>";
+            "Release Data: " + game.Year +"<br>" 
 
             card.innerHTML = textData;
 
@@ -130,5 +128,5 @@ let newObj = {
 
 const submitButton = document.getElementById("submit");
 
-xhttp.open("GET", "games.json", true);
+xhttp.open("GET", "game.json", true);
 xhttp.send();
